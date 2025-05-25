@@ -1,0 +1,17 @@
+Direitos do Projeto - Licença de Uso
+
+Este projeto foi criado por Thiago Pereira dos Santos.
+
+Você tem permissão para:
+- Usar este código para estudo e aprendizado.
+- Modificar o código para seu uso pessoal.
+- Compartilhar o código com outras pessoas.
+
+Você NÃO pode:
+- Vender este código ou qualquer parte dele sem autorização.
+- Usar este código para fins comerciais sem minha permissão.
+- Tirar os créditos do autor original (Thiago Pereira dos Santos).
+
+Se for usar este projeto, por favor, dê os créditos ao autor.
+
+Data: 2025
