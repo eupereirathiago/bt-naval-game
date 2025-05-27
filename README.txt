@@ -1,11 +1,7 @@
 ﻿Batalha Naval em C
 Este é um projeto digital do clássico jogo Batalha Naval feito utilizando a linguagem C. O jogo foi desenvolvido para dois jogadores, com foco em praticar lógica de programação, manipulação de matrizes e controle de fluxo.
  Desenvolvedores
-<<<<<<< HEAD
-Thiago Pereira, Carlos Iarley, José Venâncio, Yuri Carvalho, Italo Kauã.
-=======
 Thiago Pereira, Carlos Iarley, José Venâncio, Yuri Carvalho, Italo Kauã, Dandara Gomes e Lucas Oliveira.
->>>>>>> 4f76ade (alteração desenvolvedores)
 
 
 Objetivo
