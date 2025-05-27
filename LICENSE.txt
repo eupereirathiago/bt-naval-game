@@ -1,6 +1,6 @@
 Direitos do Projeto - Licença de Uso
 
-Este projeto foi criado por Thiago Pereira dos Santos.
+Este projeto foi criado por estudntes da Faculdade CDL - Fortaleza.
 
 Você tem permissão para:
 - Usar este código para estudo e aprendizado.
