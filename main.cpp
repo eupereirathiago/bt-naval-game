@@ -420,7 +420,7 @@ int main() {
     	case 3:
     	//SOBRE
     	printf("Esse jogo foi desenvolvido para fins educacionais e prática de programação em C. \n");
-        printf("Por: Thiago Pereira, Carlos Iarley, José Venâncio, Yuri Carvalho, Italo Kauã, Dandara Gomes, Lucas Oliveira \n\n");
+        printf("Por: Thiago Pereira, Carlos Iarley, José Venâncio, Yuri Carvalho, Italo Kauã, Dandara Gomes, Lucas Oliveira, Rafael Azevedo \n\n");
         
 		system("pause");
         system("cls");
